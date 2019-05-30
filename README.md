@@ -14,7 +14,7 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 - [x] Run your usual git commands for adding/commiting and pushing **Be sure to push to your branch!**
 - [x] Create a Pull-Request to submit your work
 - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
-- [ ] Add your PM as a reviewer on the Pull-Request
+- [x] Add your PM as a reviewer on the Pull-Request
 - [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Part Two:
@@ -28,8 +28,8 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [x] add/commit/and push to your own branch  **Be sure to push to your branch!**
 - [x] Create a Pull-Request to submit your work
   - [x] Use your own student fork as the base (compare across forks, base-fork -> master).
-  - [ ] Add your PM as a reviewer on the Pull-Request
-- [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+  - [x] Add your PM as a reviewer on the Pull-Request
+- [] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Stretch
 - [x] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
